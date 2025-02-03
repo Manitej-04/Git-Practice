@@ -4,7 +4,7 @@ public class PDemo003 {
         int y = 20;
         int z = 30;
 
-        if((x>y)&&(x>z)){
+        if((x>y)&&(x>z)){ 
             System.out.println("x is greater than y and z");
         }
         else if((y>x)&&(y>z)){
